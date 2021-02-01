@@ -47,12 +47,3 @@ button {
 
 }
 
-/*classLists*/
-
-.hide {
-  display:none;
-}
-
-.show {
-  display:flex;
-}
