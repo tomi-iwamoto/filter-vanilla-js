@@ -45,3 +45,13 @@ button {
   margin:60px;
   border-radius:5px;
 }
+
+/*classLists*/
+
+.hide {
+  display:none;
+}
+
+.show {
+  display:flex;
+}
